@@ -33,5 +33,6 @@ This repository contains the frontend of **ConnectHub**, a full-stack chat appli
 
 
 ## Usage
--**Start the Backend:** Ensure that the ConnectHub(Another Repo) is running.
--**Access the Frontend:** Open your browser at http://localhost:5173 to use the chat application.   
+
+-**Start the Backend:** Ensure that the ConnectHub(Another Repo) is running.<br />
+-**Access the Frontend:** Open your browser at http://localhost:5173 to use the chat application.
