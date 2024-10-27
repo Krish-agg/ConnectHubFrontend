@@ -24,14 +24,10 @@ This repository contains the frontend of **ConnectHub**, a full-stack chat appli
 2. **Install dependencies**:
    ```bash
    npm install
-3. **Configure environment variables**:
-   Create a .env file in the root directory.
-
-4. **Run the application**:
+3. **Run the application**:
    ```bash
    npm run dev
-
-
+   
 ## Usage
 
 -**Start the Backend:** Ensure that the ConnectHub(Another Repo) is running.<br />
