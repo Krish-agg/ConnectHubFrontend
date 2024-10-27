@@ -15,12 +15,14 @@ This repository contains the frontend of **ConnectHub**, a full-stack chat appli
 - **React**: Component-based UI library.
 - **MUI (Material-UI)**: React component library for styling and UI components.
 - **Socket.IO**: Enables real-time, bidirectional communication.
+- **Cloudinary**: To Upload Media Files
 
 ## Installation
 
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/Krish-agg/ConnectHubFrontend.git
+   cd ConnectHubFrontend
 2. **Install dependencies**:
    ```bash
    npm install
