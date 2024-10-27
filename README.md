@@ -20,6 +20,18 @@ This repository contains the frontend of **ConnectHub**, a full-stack chat appli
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/connecthub-frontend.git
-   cd connecthub-frontend
+   git clone https://github.com/Krish-agg/ConnectHubFrontend.git
+2. **Install dependencies**:
+   ```bash
+   npm install
+3. **Configure environment variables**:
+   Create a .env file in the root directory.
 
+4. **Run the application**:
+   ```bash
+   npm run dev
+
+
+## Usage
+-**Start the Backend**: Ensure that the ConnectHub(Another Repo) is running.
+-**Access the Frontend**: Open your browser at http://localhost:5173 to use the chat application.   
