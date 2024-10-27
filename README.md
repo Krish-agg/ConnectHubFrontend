@@ -1,8 +1,25 @@
-# React + Vite
+# ConnectHub Frontend
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This repository contains the frontend of **ConnectHub**, a full-stack chat application built using [Vite](https://vitejs.dev/). ConnectHub provides users with a seamless messaging experience, offering real-time communication with a modern, responsive interface styled with Material-UI (MUI).
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **Real-time Messaging:** Send and receive messages instantly.
+- **User Authentication:** Secure login and registration for users.
+- **Responsive Design:** Optimized for desktop and mobile devices.
+- **User-Friendly Interface:** Clean and intuitive UI with Material-UI components.
+
+## Tech Stack
+
+- **Vite**: Lightning-fast development and build tool.
+- **React**: Component-based UI library.
+- **MUI (Material-UI)**: React component library for styling and UI components.
+- **Socket.IO**: Enables real-time, bidirectional communication.
+
+## Installation
+
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/yourusername/connecthub-frontend.git
+   cd connecthub-frontend
+
